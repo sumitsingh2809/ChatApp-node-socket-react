@@ -7,3 +7,8 @@ This is a code repository for a full Realtime Chat Application. We're going to u
 Setup:
 
 -   run `npm i && npm start` for both client and server side to start the development server
+
+Hosting URLs:
+
+-   [client](https://sumit-chat-app-reactjs.netlify.com/)
+-   [server](https://sumit-react-chat-app.herokuapp.com)
